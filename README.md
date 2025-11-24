@@ -1,14 +1,8 @@
-<div align="center">
+# Become an AI Researcher
 
-# 🧠 Become Elite AI Researcher
+This repository provides a structured, hands-on path to becoming an AI researcher. It includes Jupyter notebooks covering the mathematical foundations, PyTorch fundamentals, and building neural networks from first principles.
 
-A comprehensive course on becoming an AI researcher from scratch. This repository contains hands-on Jupyter notebooks covering the fundamental concepts needed to understand and implement neural networks and deep learning.
-
-**[Join the Skool Community →](https://www.skool.com/become-ai-researcher-2669/about)** | Get a **7-day free trial** if you join now!
-
-</div>
-
-## Structure
+## Repository Structure
 
 ### 1. Math Fundamentals (`1_math/`)
 - Math functions, derivatives, vectors, and gradients
@@ -27,6 +21,17 @@ A comprehensive course on becoming an AI researcher from scratch. This repositor
 - Activation functions
 - Optimizers (Adam, Muon) and learning rate decay
 
+### 4. Transformers (`4_transformers/`)
+- Attention and self-attention mechanisms
+- Multi-head attention
+- Decoder-only transformer architecture
+
+## Learning Path
+
+For a recommended step-by-step progression through the materials, see the Learning Path:
+
+- `0_intro/learning_path.md`
+
 ## Requirements
 
 Install dependencies with:
@@ -40,11 +45,11 @@ Open and run the Jupyter notebooks in order, starting with `1_math/` and progres
 
 ## Join the Community
 
-Ready to take your AI research journey to the next level? Join the **[Become AI Researcher](https://www.skool.com/become-ai-researcher-2669/about)** community on Skool for:
+Join the **[Become AI Researcher](https://www.skool.com/become-ai-researcher-2669/about)** community on Skool for:
 
 - Interactive discussions and Q&A sessions
 - Additional resources and advanced topics
 - Community support from fellow researchers
 - Exclusive content and updates
 
-**Get a 7-day free trial if you join now!** → [Join here](https://www.skool.com/become-ai-researcher-2669/about)
+**7-day free trial available** → [Join here](https://www.skool.com/become-ai-researcher-2669/about)

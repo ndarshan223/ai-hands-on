@@ -1,6 +1,6 @@
-# 🎯 The Path to Becoming an AI Researcher
+# The Path to Becoming an AI Researcher
 
-### Phase 1: Mathematical Foundations 🧮
+### Phase 1: Mathematical Foundations
 **Location:** `1_math/`
 
 - Math Functions & Derivatives
@@ -10,7 +10,7 @@
 
 **Why:** Derivatives enable backpropagation. Matrices are how layers transform data. This foundation is essential.
 
-### Phase 2: PyTorch Fundamentals 🔥
+### Phase 2: PyTorch Fundamentals
 **Location:** `2_pytorch/`
 
 - Tensor Creation & Manipulation
@@ -20,7 +20,7 @@
 
 **Why:** PyTorch is the standard research framework. Mastery here lets you implement any architecture.
 
-### Phase 3: Neural Networks from Scratch 🧠
+### Phase 3: Neural Networks from Scratch
 **Location:** `3_neural_networks/`
 
 - Single Neuron Implementation
@@ -31,7 +31,7 @@
 
 **Why:** Building from scratch develops deep understanding of how networks actually work.
 
-### Phase 4: Transformers 🔄
+### Phase 4: Transformers
 **Location:** `4_transformers/`
 
 - Attention Mechanism
@@ -41,14 +41,14 @@
 
 **Why:** Transformers power modern language models. Understanding attention and decoder architecture enables you to work with GPT, BERT, and other state-of-the-art models.
 
-## 🎓 How to Progress
+## How to Progress
 
 1. **Follow sequential order** - Complete each phase before moving to the next
 2. **Practice actively** - Run, modify, and experiment with code
 3. **Focus on understanding** - Know *why* things work, not just *how*
 4. **Don't rush** - Gaps in fundamentals will compound later
 
-## 🚀 Outcomes
+## Outcomes
 
 After completing this course, you will:
 - Understand neural network mathematics deeply
@@ -57,7 +57,7 @@ After completing this course, you will:
 - Read and implement research papers
 - Debug training issues effectively
 
-## 💡 Approach
+## Approach
 
 This course uses a bottom-up approach: fundamentals first, then building upward. This builds true understanding and enables independent research.
 
