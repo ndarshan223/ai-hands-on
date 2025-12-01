@@ -1,0 +1,23 @@
+Security Incident Report - IR-2024-089
+
+Incident Type: Unauthorized Access Attempt
+Severity: High
+Date: October 10, 2024
+
+Description:
+Multiple failed login attempts detected from IP 203.0.113.45 targeting admin accounts.
+Brute force attack blocked by IDS after 15 attempts.
+
+Actions Taken:
+1. IP address blocked at firewall level
+2. All admin passwords reset
+3. Account lockout policy strengthened
+4. Security team notified
+
+Root Cause:
+Weak password policy allowed dictionary-based attacks to be partially successful.
+
+Prevention Measures:
+- Implemented 15-character minimum password length
+- Enabled account lockout after 3 failed attempts
+- Deployed behavioral analysis for login patterns
